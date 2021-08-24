@@ -1,0 +1,55 @@
+/* .ca{
+    color:green;
+}
+/* .class1{
+    
+position: absolute;
+width: 344px;
+height: 298px;
+left: 15px;
+top: 149px;
+
+background: #F1F4FB;
+border-radius: 30px;
+}
+
+.imager{
+position: absolute;
+width: 64px;
+height: 64px;
+left: 39px;
+top: 166px;
+background: url(../Logo/forest1.png);
+
+}
+.text{
+/* position: absolute; */
+/*width: 292px;
+height: 60px;
+left: 39px;
+top: 253px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 30px;
+background: #F1F4FB;
+/* or 125% */
+
+/* The species of the genus Astrophytum usually grow */
+
+/*.textsm{
+position: absolute;
+width: 280px;
+height: 40px;
+left: 39px;
+top: 322px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 19px;
+background: #F1F4FB;
+or 158% } */
